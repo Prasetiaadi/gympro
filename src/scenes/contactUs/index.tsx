@@ -126,7 +126,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
 
               <button
                 type="submit"
-                className="mt-5 rounded-lg bg-secondary-500 px-20 py-3 transition duration-500 hover:text-white"
+                className="mt-5 rounded-sm bg-secondary-500 px-10 py-2 shadow-[-3px_3px_rgba(0,0,0)] transition duration-200 hover:bg-primary-500 hover:text-white hover:shadow-[-6px_6px_rgba(0,0,0)]"
               >
                 SUBMIT
               </button>
